@@ -1,0 +1,66 @@
+.header-section {
+    background-color: #1155cc;
+    
+}
+
+.container-fluid {
+    width: 80% !important; 
+}
+
+.nav-menu {
+    color: #fff;
+    background-color: transparent;
+}
+
+.nav-link {
+    color: #fff;
+    background: transparent;
+  }
+
+.nav-button{
+    background-color: #294;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background: #294;
+    border: 1px solid #294;
+   
+}
+.nav-button:hover{
+    background-color: #22cc2c;
+    background: #22cc2c;
+    border: 1px solid #22cc2c;
+}
+
+.nav-link:focus, .nav-link:hover{
+     color: #fff;
+    background: transparent;
+}
+
+.header-logo{
+    margin: -1%;
+}
+
+.header-section {
+    padding-top: 5px;
+}
+
+.sub-heading{
+    font-size: 28px;
+    font-weight: 600 !important;
+    color: #000;
+}
+
+.hero-heading{
+    font-size: 42px;
+    font-weight: 700 !important;
+    color: #000;
+}
+
+
+.container.col-xxl-12.px-4.py-5 {
+    background: url(/assets/Icon-with-white-background.png);
+    width: 100%;
+  }
