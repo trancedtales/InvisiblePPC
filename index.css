@@ -82,6 +82,10 @@
     text-align: center;
 }
 
+.text-align-left{
+    text-align: left;
+}
+
 .white{
     color: #fff;
 }
@@ -97,3 +101,37 @@
     width: 550px;
     height: auto;
 }
+
+
+.section-2-list-head {
+
+    font-weight: 600 !important;
+    font-size:18px;
+}
+
+
+#what-makes-ippc-sec ul li {
+    background-size: 45px !important;
+    background: url(/assets/Black-arrow.png) no-repeat scroll 1px 4px transparent;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 0;
+    list-style: none;
+    padding-left: 58px;
+    padding-top: 11px;
+}
+.learn-more-btn {
+    padding: 1% 0%;
+  }
+
+.body-section-3{
+    background-color: #cfe2f3;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    
+  }
